@@ -1,4 +1,4 @@
-# How_To_Tailscale
+# How_To_Install_Tailscale
 
 ## Install : Tutorial https://tailscale.com/kb/1017/install/
 ```
